@@ -1,0 +1,38 @@
+C:\Users\moham\OneDrive\Desktop\ASP API\CarRental\CarRental.Core\bin\Debug\net8.0\CarRental.Core.deps.json
+C:\Users\moham\OneDrive\Desktop\ASP API\CarRental\CarRental.Core\bin\Debug\net8.0\CarRental.Core.dll
+C:\Users\moham\OneDrive\Desktop\ASP API\CarRental\CarRental.Core\bin\Debug\net8.0\CarRental.Core.pdb
+C:\Users\moham\OneDrive\Desktop\ASP API\CarRental\CarRental.Core\obj\Debug\net8.0\CarRental.Core.csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Desktop\ASP API\CarRental\CarRental.Core\obj\Debug\net8.0\CarRental.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Desktop\ASP API\CarRental\CarRental.Core\obj\Debug\net8.0\CarRental.Core.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Desktop\ASP API\CarRental\CarRental.Core\obj\Debug\net8.0\CarRental.Core.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Desktop\ASP API\CarRental\CarRental.Core\obj\Debug\net8.0\CarRental.Core.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\ASP API\CarRental\CarRental.Core\obj\Debug\net8.0\CarRental.Core.dll
+C:\Users\moham\OneDrive\Desktop\ASP API\CarRental\CarRental.Core\obj\Debug\net8.0\refint\CarRental.Core.dll
+C:\Users\moham\OneDrive\Desktop\ASP API\CarRental\CarRental.Core\obj\Debug\net8.0\CarRental.Core.pdb
+C:\Users\moham\OneDrive\Desktop\ASP API\CarRental\CarRental.Core\obj\Debug\net8.0\ref\CarRental.Core.dll
+C:\Users\moham\OneDrive\Desktop\ASP API\CarRental\CarRental.Core\obj\Debug\net8.0\CarRental.Core.sourcelink.json
+C:\Users\On TraCk\Desktop\CarRental\CarRental-Backend\CarRental.Core\bin\Debug\net8.0\CarRental.Core.deps.json
+C:\Users\On TraCk\Desktop\CarRental\CarRental-Backend\CarRental.Core\bin\Debug\net8.0\CarRental.Core.dll
+C:\Users\On TraCk\Desktop\CarRental\CarRental-Backend\CarRental.Core\bin\Debug\net8.0\CarRental.Core.pdb
+C:\Users\On TraCk\Desktop\CarRental\CarRental-Backend\CarRental.Core\obj\Debug\net8.0\CarRental.Core.csproj.AssemblyReference.cache
+C:\Users\On TraCk\Desktop\CarRental\CarRental-Backend\CarRental.Core\obj\Debug\net8.0\CarRental.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\On TraCk\Desktop\CarRental\CarRental-Backend\CarRental.Core\obj\Debug\net8.0\CarRental.Core.AssemblyInfoInputs.cache
+C:\Users\On TraCk\Desktop\CarRental\CarRental-Backend\CarRental.Core\obj\Debug\net8.0\CarRental.Core.AssemblyInfo.cs
+C:\Users\On TraCk\Desktop\CarRental\CarRental-Backend\CarRental.Core\obj\Debug\net8.0\CarRental.Core.csproj.CoreCompileInputs.cache
+C:\Users\On TraCk\Desktop\CarRental\CarRental-Backend\CarRental.Core\obj\Debug\net8.0\CarRental.Core.sourcelink.json
+C:\Users\On TraCk\Desktop\CarRental\CarRental-Backend\CarRental.Core\obj\Debug\net8.0\CarRental.Core.dll
+C:\Users\On TraCk\Desktop\CarRental\CarRental-Backend\CarRental.Core\obj\Debug\net8.0\refint\CarRental.Core.dll
+C:\Users\On TraCk\Desktop\CarRental\CarRental-Backend\CarRental.Core\obj\Debug\net8.0\CarRental.Core.pdb
+C:\Users\On TraCk\Desktop\CarRental\CarRental-Backend\CarRental.Core\obj\Debug\net8.0\ref\CarRental.Core.dll
+E:\ITI\Final Project\Road Ready\Backend\CarRental.Core\bin\Debug\net8.0\CarRental.Core.deps.json
+E:\ITI\Final Project\Road Ready\Backend\CarRental.Core\bin\Debug\net8.0\CarRental.Core.dll
+E:\ITI\Final Project\Road Ready\Backend\CarRental.Core\bin\Debug\net8.0\CarRental.Core.pdb
+E:\ITI\Final Project\Road Ready\Backend\CarRental.Core\obj\Debug\net8.0\CarRental.Core.csproj.AssemblyReference.cache
+E:\ITI\Final Project\Road Ready\Backend\CarRental.Core\obj\Debug\net8.0\CarRental.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\Final Project\Road Ready\Backend\CarRental.Core\obj\Debug\net8.0\CarRental.Core.AssemblyInfoInputs.cache
+E:\ITI\Final Project\Road Ready\Backend\CarRental.Core\obj\Debug\net8.0\CarRental.Core.AssemblyInfo.cs
+E:\ITI\Final Project\Road Ready\Backend\CarRental.Core\obj\Debug\net8.0\CarRental.Core.csproj.CoreCompileInputs.cache
+E:\ITI\Final Project\Road Ready\Backend\CarRental.Core\obj\Debug\net8.0\CarRental.Core.dll
+E:\ITI\Final Project\Road Ready\Backend\CarRental.Core\obj\Debug\net8.0\refint\CarRental.Core.dll
+E:\ITI\Final Project\Road Ready\Backend\CarRental.Core\obj\Debug\net8.0\CarRental.Core.pdb
+E:\ITI\Final Project\Road Ready\Backend\CarRental.Core\obj\Debug\net8.0\ref\CarRental.Core.dll

@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ITI\\Final Project\\Road Ready\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2194B7-4032-4BEB-81D5-E831363584A9}|CarRental.APIs\\CarRental.APIs.csproj|e:\\iti\\final project\\road ready\\backend\\carrental.apis\\dtos\\rental\\requestsforcarowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA2194B7-4032-4BEB-81D5-E831363584A9}|CarRental.APIs\\CarRental.APIs.csproj|solutionrelative:carrental.apis\\dtos\\rental\\requestsforcarowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D191343D-5BC5-4ADB-AC77-6FC71732532C}|CarRental.Repository\\CarRental.Repository.csproj|e:\\iti\\final project\\road ready\\backend\\carrental.repository\\rentalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D191343D-5BC5-4ADB-AC77-6FC71732532C}|CarRental.Repository\\CarRental.Repository.csproj|solutionrelative:carrental.repository\\rentalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2194B7-4032-4BEB-81D5-E831363584A9}|CarRental.APIs\\CarRental.APIs.csproj|e:\\iti\\final project\\road ready\\backend\\carrental.apis\\controllers\\rentalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA2194B7-4032-4BEB-81D5-E831363584A9}|CarRental.APIs\\CarRental.APIs.csproj|solutionrelative:carrental.apis\\controllers\\rentalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RequestsForCarOwner.cs",
+              "DocumentMoniker": "E:\\ITI\\Final Project\\Road Ready\\Backend\\CarRental.APIs\\DTOs\\Rental\\RequestsForCarOwner.cs",
+              "RelativeDocumentMoniker": "CarRental.APIs\\DTOs\\Rental\\RequestsForCarOwner.cs",
+              "ToolTip": "E:\\ITI\\Final Project\\Road Ready\\Backend\\CarRental.APIs\\DTOs\\Rental\\RequestsForCarOwner.cs",
+              "RelativeToolTip": "CarRental.APIs\\DTOs\\Rental\\RequestsForCarOwner.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T15:32:48.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RentalController.cs",
+              "DocumentMoniker": "E:\\ITI\\Final Project\\Road Ready\\Backend\\CarRental.APIs\\Controllers\\RentalController.cs",
+              "RelativeDocumentMoniker": "CarRental.APIs\\Controllers\\RentalController.cs",
+              "ToolTip": "E:\\ITI\\Final Project\\Road Ready\\Backend\\CarRental.APIs\\Controllers\\RentalController.cs",
+              "RelativeToolTip": "CarRental.APIs\\Controllers\\RentalController.cs",
+              "ViewState": "AQIAALcAAAAAAAAAAAAmwLoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T15:31:55.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RentalRepository.cs",
+              "DocumentMoniker": "E:\\ITI\\Final Project\\Road Ready\\Backend\\CarRental.Repository\\RentalRepository.cs",
+              "RelativeDocumentMoniker": "CarRental.Repository\\RentalRepository.cs",
+              "ToolTip": "E:\\ITI\\Final Project\\Road Ready\\Backend\\CarRental.Repository\\RentalRepository.cs",
+              "RelativeToolTip": "CarRental.Repository\\RentalRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA1wB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T15:31:30.754Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
